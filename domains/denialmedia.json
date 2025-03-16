@@ -1,0 +1,12 @@
+{
+  "description": "tutorials and write ups For Jason Kingery, denialmedia",
+  "repo": "https://github.com/denialmedia/denialmedia.github.io.git",
+  "owner": {
+    "username": "denialmedia",
+    "email": "denialmedia@gmail.com"
+  },
+  "record": {
+    "CNAME": "denialmedia.github.io"
+  },
+  "proxied": true
+}
